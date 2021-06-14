@@ -8,7 +8,7 @@ public class IronChair implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno SILLA METALICA----Q8");
+        System.out.println("50\t\t\tQ8\t\tQ400\t\t\tSILLA METALICA");
     }
 
 }

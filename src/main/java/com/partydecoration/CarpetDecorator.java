@@ -9,7 +9,7 @@ public class CarpetDecorator extends PartyDecorationsDecorate {
 
     public void addCarpet(IDecoration decoration) {
         if(decoration instanceof Floor){
-            System.out.println("Decorando PISO con ALFOMBRA SINTETICA----Q60");
+            System.out.println("1\t\t\tQ60\t\tQ60\t\t\tALFOMBRA SINTETICA");
         }
         return;
     }

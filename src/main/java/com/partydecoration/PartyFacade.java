@@ -5,6 +5,8 @@ import java.util.*;
 public class PartyFacade {
 
     public PartyFacade() {
+        System.out.println("##########################################################################################");
+        System.out.println("CANTIDAD\t\tP/U\t\tSUBTOTAL\t\tDESCRIPCIOIN");
     }
 
     public void orderChair() {

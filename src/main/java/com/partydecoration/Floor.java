@@ -8,7 +8,7 @@ public class Floor implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno PISO----Q300");
+        System.out.println("1\t\t\tQ300\t\tQ300\t\t\tPISO PARA EVENTOS");
     }
 
 }

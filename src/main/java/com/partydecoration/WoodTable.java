@@ -8,7 +8,7 @@ public class WoodTable implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno MESA DE MADERA----Q25");
+        System.out.println("10\t\t\tQ25\t\tQ250\t\t\tMESA DE MADERA");
     }
 
 }

@@ -9,7 +9,7 @@ public class KissesDecorator extends PartyDecorationsDecorate {
 
     public void addKisses(IDecoration decoration) {
         if(decoration instanceof Cake){
-            System.out.println("Decorando PASTEL con MINI HERSHEY'S KISSES----Q25");
+            System.out.println("1\t\t\tQ25\t\tQ25\t\t\tMINI HERSHEY'S KISSES");
         }
         return;
     }

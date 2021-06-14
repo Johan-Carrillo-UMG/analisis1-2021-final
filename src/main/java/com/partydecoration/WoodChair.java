@@ -8,7 +8,7 @@ public class WoodChair implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno SILLA DE MADERA----Q5");
+        System.out.println("50\t\t\tQ5\t\tQ250\t\t\tSILLA DE MADERA");
     }
 
 }

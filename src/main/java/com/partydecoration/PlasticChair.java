@@ -8,7 +8,7 @@ public class PlasticChair implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno SILLA PLASTICA----Q3");
+        System.out.println("50\t\t\tQ3\t\tQ150\t\t\tSILLA PLASTICA");
     }
 
 }

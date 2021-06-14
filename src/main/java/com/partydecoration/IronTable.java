@@ -8,7 +8,7 @@ public class IronTable implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno MESA METALICA----Q30");
+        System.out.println("10\t\t\tQ30\t\tQ300\t\t\tMESA METALICA");
     }
 
 }

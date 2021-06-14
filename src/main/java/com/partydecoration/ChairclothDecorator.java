@@ -9,15 +9,15 @@ public class ChairclothDecorator extends PartyDecorationsDecorate {
 
     public void addChaircloth(IDecoration decoration) {
         if(decoration instanceof IronChair){
-            System.out.println("Decorando SILLA METALICA con MANTEL----Q5");
+            System.out.println("50\t\t\tQ5\t\tQ250\t\t\tMANTEL PARA SILLA METALICA");
         }
         
         if(decoration instanceof WoodChair){
-            System.out.println("Decorando SILLA DE MADERA con MANTEL----Q3");
+            System.out.println("50\t\t\tQ3\t\tQ150\t\t\tMANTEL PARA SILLA DE MADERA");
         }
         
         if(decoration instanceof PlasticChair){
-            System.out.println("Decorando SILLA DE PLASTICO con MANTEL----Q3");
+            System.out.println("50\t\t\tQ3\t\tQ150\t\t\tMANTEL PARA SILLA PLASTICA");
         }
         return;
     }

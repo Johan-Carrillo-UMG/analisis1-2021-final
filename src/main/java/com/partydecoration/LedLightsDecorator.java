@@ -9,7 +9,7 @@ public class LedLightsDecorator extends PartyDecorationsDecorate {
 
     public void addLedLigths(IDecoration decoration) {
         if(decoration instanceof Stereo){
-            System.out.println("Decorando SONIDO con LUCES LED MULTICOLOR----Q50");
+            System.out.println("1\t\t\tQ50\t\tQ50\t\t\tLUCES LED MULTICOLOR");
         }
         return;
     }

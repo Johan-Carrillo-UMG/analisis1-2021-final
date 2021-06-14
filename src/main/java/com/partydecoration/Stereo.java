@@ -8,7 +8,7 @@ public class Stereo implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno SONIDO----Q300");
+        System.out.println("1\t\t\tQ300\t\tQ300\t\t\tSONIDO (STEREO)");
     }
 
 }

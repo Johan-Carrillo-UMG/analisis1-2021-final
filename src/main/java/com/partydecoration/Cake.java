@@ -8,7 +8,7 @@ public class Cake implements IDecoration {
     }
 
     public void order() {
-        System.out.println("Se ordeno PASTEL----Q150");
+        System.out.println("1\t\t\tQ150\t\tQ150\t\t\tPASTEL");
     }
 
 }
