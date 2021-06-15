@@ -1,5 +1,7 @@
-FROM openjdk
+FROM openjdk:latest
+
 COPY . /var/www/java
 WORKDIR /var/www/java
-RUN javac PartyApp.java
-CMD ["java","PartyApp"].
+
+CMD ["java","-jar","examenfinalas1-1.0.jar"]
+
